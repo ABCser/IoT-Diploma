@@ -5,8 +5,11 @@
 Ссылка на диплом: https://github.com/ABCser/IoT-Diploma/blob/main/PDF/Diploma%20Mogilat.pdf
 
 ## Демонстрация работы системы (Видео кликабельно)
-[<img src="IMG/irr1.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/B6TeFgF0p2M?feature=oembed)
+
+https://github.com/user-attachments/assets/4f075ac5-53e8-4a5e-b111-fc04e08ec494
+
+[YouTube](https://www.youtube.com/embed/B6TeFgF0p2M?feature=oembed)
+
 
 ## Цели и задачи
 Целью проекта является создание автономной системы, которая будет
@@ -276,4 +279,7 @@ void loop() {
 ![HTTP сервер](IMG/HTTP-server.png)
 
 ## Демонстрация работы системы (Видео кликабельно)
+
 [Демонстрация работы системы](IMG/demo.mov)
+
+https://github.com/user-attachments/assets/4f075ac5-53e8-4a5e-b111-fc04e08ec494

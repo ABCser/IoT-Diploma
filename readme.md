@@ -257,8 +257,17 @@ void loop() {
 ```
 
 ### Архитектура
-![архитектура](IMG/arch.png)
+![Архитектура](IMG/arch.png)
 
 ### Схема подключеня
-![alt text](IMG/WaterPump.png)
+![Схема подключеня](IMG/WaterPump.png)
+
+### Изображения готовой сборки
+![Готовая сборка](IMG/irr1.jpg) ![Готовая сборка](IMG/irr2.jpg) ![Готовая сборка](IMG/irr3.jpg)
+
+### InfluxDB, Grafana, Node-RED
+![InfluxDB](IMG/InfuxDB.png) ![Grafana](IMG/Grafana.png) ![Node-RED](IMG/NodeRed.png) 
+
+### HTTP сервер
+![HTTP сервер](IMG/HTTP-server.png)
 

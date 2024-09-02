@@ -4,6 +4,10 @@
 
 Ссылка на диплом: https://github.com/ABCser/IoT-Diploma/blob/main/PDF/Diploma%20Mogilat.pdf
 
+## Демонстрация работы системы (Видео кликабельно)
+[<img src="IMG/irr1.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/B6TeFgF0p2M?feature=oembed)
+
 ## Цели и задачи
 Целью проекта является создание автономной системы, которая будет
 регулировать уровень влажности почвы, оптимизируя полив растений в

@@ -276,5 +276,4 @@ void loop() {
 ![HTTP сервер](IMG/HTTP-server.png)
 
 ## Демонстрация работы системы (Видео кликабельно)
-[<img src="IMG/irr1.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/B6TeFgF0p2M?feature=oembed)
+[Демонстрация работы системы](IMG/demo.mov)
